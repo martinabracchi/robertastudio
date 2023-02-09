@@ -7,6 +7,7 @@
         url('/assets/font/graphik-regular.woff') format('woff'),
         url('/assets/font/graphik-regular.svg#graphik-regular') format('svg');
   font-weight: 400; font-style: normal;
+  font-display: swap;
   }
 
     
@@ -14,6 +15,7 @@
     font-family: "Graphik";
     src: url("/assets/font/graphik-light.otf") format("opentype");
     font-weight: 200; font-style: normal;
+    font-display: swap;
     }
   
 
