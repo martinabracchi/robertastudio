@@ -2,7 +2,7 @@
   font-family: "Graphik";
   src: url('/assets/font/graphik-regular.eot');
   src: url("/assets/font/graphik-regular.otf") format("opentype");
-  src: url('/assets/font/graphik-regular.eot?#iefix') format('embedded-opentype'),
+  src: url('/assets/font/graphik-regular.eot') format('embedded-opentype'),
         url('/assets/font/graphik-regular.woff2') format('woff2'),
         url('/assets/font/graphik-regular.woff') format('woff'),
         url('/assets/font/graphik-regular.svg#graphik-regular') format('svg');
