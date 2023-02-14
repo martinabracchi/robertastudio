@@ -36,7 +36,7 @@ body {
 
 /* DESKTOP */
 
-@media (min-width: 991px){
+@media (min-width: 768px){
 
 .titolo{
   position:absolute;
@@ -92,7 +92,7 @@ span{
 
 
 /*  TELEFONO GIRA */
-@media (min-device-width: 450px) and (max-device-width: 991px){
+@media screen and (min-device-width: 450px) and (max-device-width: 768px) and (orientation : landscape){
   .titolo{
     position:absolute;
     top: 2vw;
