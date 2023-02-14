@@ -155,7 +155,7 @@ span{
 
 
 /*  TELEFONO  */
-@media (max-width: 450px) {
+@media (orientation : landscape) {
 
   .titolo{
     position:absolute;
