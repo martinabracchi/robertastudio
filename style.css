@@ -19,6 +19,8 @@
     }*/
   
 
+  
+
 
 body {
   font-family: Graphik;
@@ -34,9 +36,9 @@ body {
   /* box-sizing: content-box; */
 }
 
-/* DESKTOP */
+/*  DESKTOP COSE!!!!!  */
 
-@media screen and(min-width: 900px) and (orientation : landscape){
+@media screen and (min-width: 900px) and (orientation : landscape){
 
 .titolo{
   position:absolute;
@@ -50,7 +52,6 @@ body {
 .logo{
   width:100%;
 }
-
 
 .info {
   position: absolute;
@@ -88,8 +89,6 @@ span{
   font-size: 1vw
 }
 }
-
-
 
 /*  TELEFONO GIRA */
 @media screen and (max-width: 900px) and (orientation : landscape){
@@ -154,8 +153,11 @@ span{
 
 
 
+
+
+
 /*  TELEFONO  */
-@media screen and(orientation : portrait) {
+@media screen and (orientation : portrait) {
 
   .titolo{
     position:absolute;
