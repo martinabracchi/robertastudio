@@ -92,7 +92,7 @@ span{
 
 
 /*  TELEFONO GIRA */
-@media screen and (min-device-width: 450px) and (max-device-width: 991px){
+@media (min-device-width: 450px) and (max-device-width: 991px){
   .titolo{
     position:absolute;
     top: 2vw;
